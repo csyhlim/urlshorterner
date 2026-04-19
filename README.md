@@ -1,5 +1,9 @@
 # URL Shortener
 
+![CI](https://github.com/csyhlim/urlshorterner/actions/workflows/ci.yml/badge.svg)
+
+![Coverage](https://img.shields.io/badge/coverage-97%25-brightgreen)
+
 ## Deskripsi Aplikasi
 
 Aplikasi ini adalah URL Shortener sederhana berbasis Flask yang digunakan untuk mempersingkat URL panjang menjadi URL yang lebih pendek dan mudah dibagikan.
